@@ -2,11 +2,6 @@
 
 Este repositório contém as soluções para as questões do teste de estágio.
 
-## Índice
-
-- [Questões e Respostas](#questões-e-respostas)
-- [Procedimento para Identificação de Interruptores](#procedimento-para-identificação-de-interruptores)
-
 ## Questões e Respostas
 
 ### 3. Resultado
