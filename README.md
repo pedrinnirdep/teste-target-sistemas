@@ -1,6 +1,6 @@
 # Teste de Estágio
 
-Este repositório contém as soluções para as questões do teste de estágio.
+Este repositório contém as soluções para as questões do teste de estágio (Questões 1 e 2 feitas em python).
 
 ## Questões e Respostas
 
